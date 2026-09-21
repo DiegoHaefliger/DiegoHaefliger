@@ -17,6 +17,9 @@ Desenvolvedor **Back-end Sênior** com 15 anos em desenvolvimento de software, e
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,7 +59,7 @@ Um alerta do Grafana vira um card no GitHub Issues com a evidência já coletada
 | Projeto | O que é | Stack |
 |---|---|---|
 | **Argos** | Plataforma multiusuário de inteligência de vagas com IA: coleta vagas de várias fontes, analisa a aderência e notifica as melhores oportunidades | Java 25 · Spring Boot · LangChain4j · Kafka · Liquibase |
-| **Bot de trading algorítmico** | Sistema automatizado em produção, com motor de estratégias plugável, gestão de risco e filtro de sinais com ML. Os alertas saem via CryptoMensageria | Java 21 · Quarkus · PostgreSQL · Kafka · WebSocket · Liquibase |
+| **Bot de trading algorítmico** | Sistema automatizado em produção, com motor de estratégias plugável, gestão de risco, filtro de sinais com ML e alertas via Telegram | Java 21 · Quarkus · PostgreSQL · Kafka · WebSocket · Liquibase |
 
 ---
 
