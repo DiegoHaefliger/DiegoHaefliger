@@ -68,4 +68,4 @@ Um alerta do Grafana vira um card no GitHub Issues com a evidência já coletada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/diego-haefliger/)
 [![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge)](mailto:diegohaefliger@hotmail.com)
-[![Currículo PDF](https://img.shields.io/badge/Currículo-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](curriculo-diego-haefliger.pdf)
+[![Currículo PDF](https://img.shields.io/badge/Currículo-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Curriculo_Diego_Haefliger.pdf)
