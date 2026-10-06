@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Diego Haefliger · Back-end Sênior Java" width="100%">
+<img src="banner.jpeg" alt="Diego Haefliger · Desenvolvedor Java Sênior" width="100%">
 
 ## Olá, eu sou o Diego 👋
 
